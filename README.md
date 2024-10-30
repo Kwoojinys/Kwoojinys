@@ -1,11 +1,11 @@
 
 <h2 align="center">📞 Contact </h2>
 <div style="display:flex; flex-direction:row;" align="center">
-    <a href="mailto:kwoojiny@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
+    <a href="mailto:kwoojiny@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kwoojiny@gmail.com"></a>
     <a href="https://open.kakao.com/o/sPHEHsXg"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logoColor=black&logo=KakaoTalk"></a>
 </div>
 
-<h2 align="center">⚙ Stack </h2>
+<h2 align="center">⚙ Tech Stack </h2>
 <h4 align="center">📌 Most Usage </h4>
 <div style="display:flex; flex-direction:row;" align="center">
     <img src ="https://img.shields.io/badge/C%23-512BD4.svg?&style=flat-square&logo=C%23&logoColor=white"/>
