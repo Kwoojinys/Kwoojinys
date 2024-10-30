@@ -14,6 +14,7 @@
 </div>
 <h4 align="center">📌 Usage </h4>
 <div style="display:flex; flex-direction:row;" align="center">
+    <img src ="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
     <img src ="https://img.shields.io/badge/javascript-blue?logo=javascript"/>
     <img src ="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/>
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>
